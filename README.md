@@ -12,6 +12,10 @@ My goal here on github is to keep track of my progress by adding a lot of projec
 
 <h2>Skills(currently improving them day by day)</h2>
 
+-HTML
+
+-CSS
+
 -C#
 
 -WPF
