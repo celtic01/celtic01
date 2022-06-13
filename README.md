@@ -24,3 +24,4 @@ My goal here on github is to keep track of my progress by adding a lot of projec
 
 -Medium knowledge of data structs and algos
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celtic01)](https://git.io/streak-stats)
