@@ -3,7 +3,6 @@
 <p align="center"><strong>currently studying computer science</strong>
 <br>2nd year</p>
 <br/>
-<div align="center"><img src="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif"></img></div>
 
 
 <h2>Goal</h2>
